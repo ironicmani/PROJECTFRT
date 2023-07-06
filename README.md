@@ -2,7 +2,7 @@
 Microsoft Future Ready Talent Virtual Internship Project Repository
 
 
-🦷  SMILE DENTALS PVT LTD.  🦷
+🦷  SMILE DENTALS  🦷
 
 This is Web Application developed for a dental clinic business in India.
 
