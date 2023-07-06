@@ -23,6 +23,9 @@ Features and Functionalities:
 -  User can know about health information through this website.
 -  Included the feedback Survey form to increase the scope of imporovement.
 
+Azure Technologies used for Project:
+1) Static Web Apps
+2) Health Bot
 
 SCREENSHOTS:
 
@@ -33,3 +36,14 @@ SCREENSHOTS:
 3) ![Screenshot 2023-07-06 180328](https://github.com/ironicmani/PROJECTFRT/assets/97545814/36accc72-eaa1-42ad-83da-8a47153f6b62)
 
 4) ![Screenshot 2023-07-06 180610](https://github.com/ironicmani/PROJECTFRT/assets/97545814/43879c9f-abde-4bc6-81ed-292973507e0f)
+
+5) ![Screenshot 2023-07-06 184902](https://github.com/ironicmani/PROJECTFRT/assets/97545814/0e24d5b9-28f6-4102-b1b1-47428614405c)
+
+
+Tech Stack:
+1) Azure
+2) HTML
+3) CSS
+4) BootStrap
+5) JavaScript
+
