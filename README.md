@@ -10,7 +10,7 @@ This Web Application has been developed to prove the completion of Future Ready 
 
 ***PROJECT LINK***: https://ashy-river-0d9c2ef00.3.azurestaticapps.net/
 
-***PROJECT DEMO VIDEO LINK***: 
+***PROJECT DEMO VIDEO LINK***: https://youtu.be/3AzljKaXLBo
 
 Features and Functionalities: 
 
