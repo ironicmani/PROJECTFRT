@@ -26,4 +26,10 @@ Features and Functionalities:
 
 SCREENSHOTS:
 
+1) ![Screenshot 2023-07-06 180233](https://github.com/ironicmani/PROJECTFRT/assets/97545814/5837ae0b-7c5a-40ea-b60a-19798bf91919)
+  
+2) ![Screenshot 2023-07-06 180258](https://github.com/ironicmani/PROJECTFRT/assets/97545814/04b99dda-e3af-48ba-b935-a8383be0119b)
 
+3) ![Screenshot 2023-07-06 180328](https://github.com/ironicmani/PROJECTFRT/assets/97545814/36accc72-eaa1-42ad-83da-8a47153f6b62)
+
+4) ![Screenshot 2023-07-06 180610](https://github.com/ironicmani/PROJECTFRT/assets/97545814/43879c9f-abde-4bc6-81ed-292973507e0f)
